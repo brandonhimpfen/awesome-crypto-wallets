@@ -99,6 +99,7 @@
 - **[Ledger Academy](https://www.ledger.com/academy)** - Educational content on how to use hardware wallets securely.
 - **[Crypto Wallet Guide](https://www.investopedia.com/best-bitcoin-wallets-5070283)** - An overview of the best crypto wallets for different needs.
 - **[CoinDesk Learn](https://www.coindesk.com/learn/)** - Articles and tutorials on using different types of crypto wallets.
+- **[CoinVetted](https://coinvetted.com/)** - Independent reviews of crypto wallets and exchanges scored on a public rubric, prioritizing self-custody and security.
 
 ## Community and Forums
 
