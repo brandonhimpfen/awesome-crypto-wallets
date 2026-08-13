@@ -87,6 +87,7 @@
 - **[Stackup](https://www.stackup.fi/)** - A crypto wallet tailored for startups, featuring team access policies and collaborative asset management tools.
 
 ## Backup and Recovery Tools
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 - **[CipherSafe](https://www.ciphersafe.io/)** - A stainless steel backup device for storing recovery phrases.
 - **[Billfodl](https://billfodl.com/)** - A durable backup tool for securely storing seed phrases.
